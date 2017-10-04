@@ -1,0 +1,34 @@
+Homework – Week 1 (Introduction week)
+
+1. Get familiar and comfortable with using GIT
+https://try.github.io/levels/1/challenges/1
+
+2. Watch this video about JAVA
+https://www.youtube.com/watch?v=2Xa3Y4xz8_s
+
+Reading assignment:
+
+1. Reading: Chapter 1 sections 1.1-1.4 and Section 2.1 and 2.2 from Chapter 2 (Also you can cover 5.3)
+If you want to read the material we will be covering following class (week 3), read
+sections 2.2, 2.3, 2.4, 3.1, and emphasize more on 4.1, 4.2, 4.4.
+If you also do some Practiceit exercises for these sections, then you will wing
+it in class.
+
+2. 
+Create an account on: http://practiceit.cs.washington.edu/
+This is the resource where you will be doing practice exercises from your
+textbook. 
+The textbook has a little different exercises so please DO NOT do
+exercises from the book.
+
+3. 
+Chapter 1 – Self-Check Problems (on Practiceit website) 6, 7, 11, 13, 14, 18, 19, 29.
+Chapter 1 – Exercises (on Practiceit website) 1, 3, 7.
+Chapter 2 – Self-Check Problems (Practiceit) 1, 2, 4, 5, 6, 7, 9, 11, 12, 14, 15
+
+4. 
+Practice typing syntax such as “public static void main”, System.out.println, Data types and review programs you have learned the class
+* write a program that will write 10 sentences about you with each sentence
+on separate line
+
+
