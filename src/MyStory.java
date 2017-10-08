@@ -1,4 +1,3 @@
-
 public class MyStory {
 
 	public static void main(String[] args) {
